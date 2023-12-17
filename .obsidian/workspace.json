@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0dcbf23137c0abb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7797fe622cadcbfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e78e3bf023edb3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/事件驱动模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47a3d8f3a73fe0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/实现服务级TraceId.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3aeb1be53f9231f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/拦截器和过滤器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b1faf5716b5014e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mybatis基本使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071fc6841a63e03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa32fa82521b3330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec683268cecdae4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "2d74e817945ae9a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bbb45550db57981",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1849ec9680f6b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c99a28bfe3bcb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1ff2ead91e0a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mybatis基本使用.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71e25bdecc397c54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mybatis基本使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "678e0569378fb594",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93101e647c7d2ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mybatis基本使用.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7b1faf5716b5014e",
+  "lastOpenFiles": [
+    "Mybatis基本使用.md",
+    "Spring/拦截器和过滤器.md",
+    "Spring/自定义注解参数校验.md",
+    "Spring/事件驱动模型.md",
+    "Spring/实现服务级TraceId.md",
+    "Excalidraw/观察者模式.excalidraw.md",
+    "Excalidraw",
+    "Drawing 2023-12-17 11.45.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-17 11.45.23.excalidraw.md",
+    "数据库",
+    "Spring"
+  ]
+}

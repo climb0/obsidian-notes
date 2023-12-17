@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
+  "textFontFamily": "LXGW WenKai Mono,LXGW WenKai",
+  "monospaceFontFamily": "Maple Mono,Monaspace Neon,Andale Mono",
+  "translucency": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "theme"
+  ]
+}
