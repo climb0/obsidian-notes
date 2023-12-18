@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "d3aeb1be53f9231f",
+            "id": "abc058a0aff0ae4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/拦截器和过滤器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b1faf5716b5014e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mybatis基本使用.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mybatis基本使用.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mybatis基本使用.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mybatis基本使用.md"
+                "file": "未命名.md"
               }
+            }
+          },
+          {
+            "id": "22bdb35c52c85683",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,14 +180,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7b1faf5716b5014e",
+  "active": "abc058a0aff0ae4f",
   "lastOpenFiles": [
-    "Mybatis基本使用.md",
-    "Spring/拦截器和过滤器.md",
-    "Spring/自定义注解参数校验.md",
-    "Spring/事件驱动模型.md",
     "Spring/实现服务级TraceId.md",
+    "未命名.md",
+    "设计模式/观察者和策略模式.md",
     "Excalidraw/观察者模式.excalidraw.md",
+    "Java",
+    "算法题",
+    "中间件",
+    "Git仓库.md",
+    "Spring/拦截器和过滤器.md",
+    "Spring/事件驱动模型.md",
+    "设计模式",
+    "数据库/Mybatis基本使用.md",
+    "Spring/自定义注解参数校验.md",
     "Excalidraw",
     "Drawing 2023-12-17 11.45.23.excalidraw.md",
     "Excalidraw/Drawing 2023-12-17 11.45.23.excalidraw.md",

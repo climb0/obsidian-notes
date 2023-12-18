@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#f9b44e",
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
@@ -8,7 +8,5 @@
   "translucency": true,
   "nativeMenus": false,
   "showViewHeader": true,
-  "enabledCssSnippets": [
-    "theme"
-  ]
+  "enabledCssSnippets": []
 }
