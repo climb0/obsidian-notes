@@ -1,74 +1,49 @@
 {
   "main": {
-    "id": "0dcbf23137c0abb5",
+    "id": "e6a62e2e251dc4fc",
     "type": "split",
     "children": [
       {
-        "id": "7797fe622cadcbfc",
+        "id": "9dbcd288397ba8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "e78e3bf023edb3b6",
+            "id": "bfb4341a6356d8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/事件驱动模型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a3d8f3a73fe0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/实现服务级TraceId.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abc058a0aff0ae4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "面试相关/算法题汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "071fc6841a63e03c",
+    "id": "dc7c04314156b211",
     "type": "split",
     "children": [
       {
-        "id": "aa32fa82521b3330",
+        "id": "d70d3248e132dd36",
         "type": "tabs",
         "children": [
           {
-            "id": "ec683268cecdae4b",
+            "id": "28db4432ffe6a9f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "2d74e817945ae9a4",
+            "id": "0adf9ca1ecb73e63",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "6bbb45550db57981",
+            "id": "e2fd27e51f00d823",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "d1849ec9680f6b5a",
+    "id": "2cede2e12000ff6a",
     "type": "split",
     "children": [
       {
-        "id": "8c99a28bfe3bcb9a",
+        "id": "82b1e6956ad68e39",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1ff2ead91e0a3f",
+            "id": "c8533301752b658d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "面试相关/算法题汇总.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "71e25bdecc397c54",
+            "id": "2f62c5fbf3274e03",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "面试相关/算法题汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "678e0569378fb594",
+            "id": "3635c5be0aea85d2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,60 +120,56 @@
             }
           },
           {
-            "id": "93101e647c7d2ad6",
+            "id": "e7b266da5baba3e8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "面试相关/算法题汇总.md"
               }
             }
-          },
-          {
-            "id": "22bdb35c52c85683",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": true,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "abc058a0aff0ae4f",
+  "active": "bfb4341a6356d8b0",
   "lastOpenFiles": [
-    "Spring/实现服务级TraceId.md",
-    "未命名.md",
+    "LeetCode/445. 两数相加II.md",
+    "面试相关/算法题汇总.md",
+    "LeetCode/1. 两数之和.md",
     "设计模式/观察者和策略模式.md",
-    "Excalidraw/观察者模式.excalidraw.md",
-    "Java",
-    "算法题",
-    "中间件",
-    "Git仓库.md",
-    "Spring/拦截器和过滤器.md",
-    "Spring/事件驱动模型.md",
-    "设计模式",
+    "Resources/观察者模式.excalidraw.md",
+    "LeetCode/2. 两数相加.md",
+    "读书看报/爱的五种语言.md",
+    "Resources/Pasted image 20241112222311.png",
+    "Resources/Pasted image 20241112222336.png",
+    "Resources/Pasted image 20241121230405.png",
+    "Resources/Pasted image 20241121231151.png",
+    "Resources/Pasted image 20241121232110.png",
+    "Resources",
+    "面试相关/常见问题汇总（一）.md",
+    "445-II-42c12c69c01644839911a6af7869eac4?pvs=24.md",
     "数据库/Mybatis基本使用.md",
-    "Spring/自定义注解参数校验.md",
-    "Excalidraw",
-    "Drawing 2023-12-17 11.45.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-17 11.45.23.excalidraw.md",
-    "数据库",
-    "Spring"
+    "数据库/Sharding-JDBC分库分表.md",
+    "未命名.canvas",
+    "幸福的婚姻（全新升级版）.pdf",
+    "读书看报/亲密关系.md",
+    "读书看报",
+    "未命名.md"
   ]
 }

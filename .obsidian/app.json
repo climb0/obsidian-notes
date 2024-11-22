@@ -8,6 +8,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "readableLineLength": true,
-  "showInlineTitle": false
+  "readableLineLength": false,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "foldHeading": true,
+  "attachmentFolderPath": "Resources"
 }

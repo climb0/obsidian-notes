@@ -1,12 +1,15 @@
 {
-  "accentColor": "#f9b44e",
-  "cssTheme": "AnuPpuccin",
+  "accentColor": "#3ea6da",
+  "cssTheme": "Minimal",
   "theme": "moonstone",
-  "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
-  "textFontFamily": "LXGW WenKai Mono,LXGW WenKai",
-  "monospaceFontFamily": "Maple Mono,Monaspace Neon,Andale Mono",
+  "interfaceFontFamily": "Alimama FangYuanTi VF,Sono,LXGW WenKai GB Screen,LXGW WenKai Mono,LXGW WenKai",
+  "textFontFamily": "Alimama FangYuanTi VF,Sono,LXGW WenKai GB Screen,LXGW WenKai Mono,LXGW WenKai",
+  "monospaceFontFamily": "Sono,Maple Mono,Alimama FangYuanTi VF,Monaspace Neon,Andale Mono",
   "translucency": true,
   "nativeMenus": false,
   "showViewHeader": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "highlight",
+    "tag"
+  ]
 }

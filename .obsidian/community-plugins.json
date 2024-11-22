@@ -1,5 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "obsidian-charts",
+  "dataview"
 ]

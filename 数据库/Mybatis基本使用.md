@@ -1,5 +1,5 @@
 
-## 数据准备
+## 0.1 数据准备
 
 ```sql
 CREATE TABLE `user`
@@ -12,8 +12,7 @@ CREATE TABLE `user`
   AUTO_INCREMENT = 1
   DEFAULT CHARSET = utf8mb4 COMMENT = '用户信息表';
 ```
-
-## 新建项目 & 引入依赖
+## 0.2 新建项目 & 引入依赖
 
 这里使用 maven 来构建项目，引入基础依赖即可
 
@@ -64,11 +63,11 @@ CREATE TABLE `user`
 </dependencies>
 ```
 
-## Mybatis 配置
+## 0.3 Mybatis 配置
 
 在 resource 目录下新建 mybatis-config.xml，这里仅在配置文件中设置了：**sql环境**、**映射器mapper**
 
-### mybatis-confit.xml
+### 0.3.1 mybatis-confit.xml
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -105,7 +104,7 @@ CREATE TABLE `user`
 </configuration>
 ```
 
-### datasource.properties
+### 0.3.2 datasource.properties
 
 ```yaml
 mysql 8.0 以上用这个驱动
@@ -116,11 +115,11 @@ datasource.username = root
 datasource.password = 12345678
 ```
 
-## Java代码
+## 0.4 Java代码
 
 需要 User 的实体类，然后定义相应的 UserMapper 接口及 sql
 
-### User 实体类
+### 0.4.1 User 实体类
 
 ```java
 @Data
@@ -144,7 +143,7 @@ public class User {
 }
 ```
 
-### UserMapper 接口
+### 0.4.2 UserMapper 接口
 
 ```java
 public interface UserMapper {
@@ -177,7 +176,7 @@ public interface UserMapper {
 }
 ```
 
-### sql
+### 0.4.3 sql
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -225,7 +224,7 @@ public interface UserMapper {
 - resultType：由 mybatis 来进行实体类与 db 记录的映射，这就要求实体类的属性名称要与 db 记录的属性名称一致，不太符合实际场景，所以仅当返回对象是简单类型时，如果 Integer、String，可以使用，否则优先使用 resultMap
 ---
 
-## 测试
+## 0.5 测试
 
 在 `test` 文件夹下新建 `UserMapper` 的测试类，这里就简单验证 CRUD
 
@@ -274,7 +273,7 @@ public class UserMapperTest {
 }
 ```
 
-## 总结
+## 0.6 总结
 
 以上就完成了 Mybatis 的独立使用：
 
@@ -291,11 +290,11 @@ public class UserMapperTest {
 
 ---
 
-# Spring 整合 Mybatis
+# 1 Spring 整合 Mybatis
 
 在现在服务基本都是 Spring 的背景下，Mybatis 也基本上不会独立使用，都是结合 Spring 或 SpringBoot 使用，本节就在上面的基础上，引入 Spring 框架
 
-## 配置 Maven依赖
+## 1.1 配置 Maven依赖
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
