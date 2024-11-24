@@ -9,7 +9,7 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "highlight",
-    "tag"
+    "tag",
+    "highlight"
   ]
 }

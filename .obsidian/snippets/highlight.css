@@ -1,5 +1,4 @@
- .markdown-preview-view mark, 
- .cm-s-obsidian span.cm-highlight { 
+.markdown-preview-view mark, .cm-s-obsidian span.cm-highlight { 
     background-color: rgba(255, 188, 16, 0.14); 
     padding: 3px 1px;
     text-decoration: underline;text-decoration-thickness: 1px; 
