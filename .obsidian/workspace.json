@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书看报/爱的五种语言.md",
+                "file": "读书看报/亲密关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "爱的五种语言"
+              "title": "亲密关系"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书看报/爱的五种语言.md",
+                "file": "读书看报/亲密关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "爱的五种语言 的反向链接列表"
+              "title": "亲密关系 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书看报/爱的五种语言.md",
+                "file": "读书看报/亲密关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "爱的五种语言 的出链列表"
+              "title": "亲密关系 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书看报/爱的五种语言.md"
+                "file": "读书看报/亲密关系.md"
               },
               "icon": "lucide-list",
-              "title": "爱的五种语言 的大纲"
+              "title": "亲密关系 的大纲"
             }
           }
         ],
@@ -166,8 +166,9 @@
   },
   "active": "bfb4341a6356d8b0",
   "lastOpenFiles": [
+    "读书看报/「爱的五种语言」.md",
     "读书看报/亲密关系.md",
-    "读书看报/爱的五种语言.md",
+    "读书看报/「认知突围」.md",
     "面试相关/算法题汇总.md",
     "LeetCode/445. 两数相加II.md",
     "LeetCode/1. 两数之和.md",
