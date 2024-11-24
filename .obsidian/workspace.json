@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "读书看报/「爱的五种语言」.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书看报/「爱的五种语言」.md",
+                "file": "book/爱的五种语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "「爱的五种语言」 的反向链接列表"
+              "title": "爱的五种语言 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书看报/「爱的五种语言」.md",
+                "file": "book/爱的五种语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "「爱的五种语言」 的出链列表"
+              "title": "爱的五种语言 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书看报/「爱的五种语言」.md"
+                "file": "book/爱的五种语言.md"
               },
               "icon": "lucide-list",
-              "title": "「爱的五种语言」 的大纲"
+              "title": "爱的五种语言 的大纲"
             }
           }
         ],
@@ -155,19 +155,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bfb4341a6356d8b0",
   "lastOpenFiles": [
-    "读书看报/「亲密关系」.md",
+    "book/爱的五种语言.md",
     "读书看报/「爱的五种语言」.md",
+    "assets/s24492121.jpg",
+    "book",
+    "assets",
+    "读书看报/「亲密关系」.md",
     "读书看报/「认知突围」.md",
     "面试相关/算法题汇总.md",
     "LeetCode/445. 两数相加II.md",
