@@ -1,5 +1,35 @@
-.markdown-preview-view mark, .cm-s-obsidian span.cm-highlight { 
-    background-color: rgba(255, 188, 16, 0.14); 
+/*实时编辑*/
+.theme-light .markdown-source-view div.cm-line span.cm-highlight {
+	background-color: rgba(255, 188, 16, 0.14); 
+    padding: 3px 1px;
+    text-decoration: underline;text-decoration-thickness: 1px; 
+    text-decoration-color: rgba(255, 188, 16, 1);
+    text-decoration-style: solid;
+    text-underline-offset: 4px;
+    border-radius: 1px;
+}
+.theme-dark .markdown-source-view div.cm-line span.cm-highlight {
+	background-color: rgba(255, 188, 16, 0.14); 
+    padding: 3px 1px;
+    text-decoration: underline;text-decoration-thickness: 1px; 
+    text-decoration-color: rgba(255, 188, 16, 1);
+    text-decoration-style: solid;
+    text-underline-offset: 4px;
+    border-radius: 1px;
+}
+
+/*阅读模式*/
+.theme-light div p mark {
+	background-color: rgba(255, 188, 16, 0.14); 
+    padding: 3px 1px;
+    text-decoration: underline;text-decoration-thickness: 1px; 
+    text-decoration-color: rgba(255, 188, 16, 1);
+    text-decoration-style: solid;
+    text-underline-offset: 4px;
+    border-radius: 1px;
+}
+.theme-dark div p mark {
+	background-color: rgba(255, 188, 16, 0.14); 
     padding: 3px 1px;
     text-decoration: underline;text-decoration-thickness: 1px; 
     text-decoration-color: rgba(255, 188, 16, 1);
